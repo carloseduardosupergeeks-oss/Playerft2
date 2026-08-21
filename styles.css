@@ -1,0 +1,52 @@
+.container {
+    background-color: purple;
+height: 1500px;
+width: 2500px;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 20px;
+gap: 30px;
+background-image: url("fundo.png");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+} 
+
+
+.player {
+    background-color: red;
+    height: 600px;
+width: 360px;
+}
+
+.playlist {
+    background-color: blue;
+    height: 600px;
+width: 360px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.vinil {
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.capa {background-color: black;
+width: 200;
+height: 200;
+border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
