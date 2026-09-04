@@ -17,7 +17,7 @@ background-size: cover;
 
 
 .player {
-    background-color: red;
+    background-color: rgb(255, 234, 252);
     height: 600px;
 width: 360px;
 display: flex;
@@ -27,7 +27,7 @@ flex-direction: column;
 }
 
 .playlist {
-    background-color: blue;
+    background-color: rgb(156, 11, 149);
     height: 600px;
 width: 360px;
 }
